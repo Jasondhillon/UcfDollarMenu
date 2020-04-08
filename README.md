@@ -3,11 +3,11 @@
 
 > https://ucfdollarmenu.herokuapp.com/
 
-- [ ] Add any missing locations to database
+- [x] ~~Add any missing locations to database~~
 
-- [ ] Add Search functionality
+- [x] ~~Add Search functionality~~
 
-- [ ] Implement Swagger
+- [x] ~~Implement Swagger~~
 
 - [x] ~~Verify database models hold the information we need~~
 
